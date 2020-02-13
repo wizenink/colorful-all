@@ -1,0 +1,8 @@
+[submodule "colorful"]
+	path = colorful
+	url = https://github.com/wizenink/colorful
+	branch = master
+[submodule "colorful-api"]
+	path = colorful-api
+	url = https://github.com/wizenink/colorful-api
+	branch = master
